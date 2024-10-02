@@ -2,7 +2,7 @@ Après avoir travaillé dans divers secteurs (tourisme/aérien/administratif) j'
 Me voilà à nouveau sur les bancs de l'école. Je suis en recherche d'une alternance en tant que Développeuse Fullstack à partir d'octobre 2024.
 
 🚀 Technos et outils
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
